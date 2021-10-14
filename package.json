@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/gauravjadwani/test1#readme",
   "dependencies": {
+    
+  },
+  "peerDependencies": {
     "axios": "^0.22.0"
   }
 }
