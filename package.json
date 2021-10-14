@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gauravjadwani/test1/issues"
   },
-  "homepage": "https://github.com/gauravjadwani/test1#readme"
+  "homepage": "https://github.com/gauravjadwani/test1#readme",
+  "dependencies": {
+    "axios": "^0.23.0"
+  }
 }
